@@ -1,14 +1,14 @@
 {
     "name": "bit-array",
     "description": "Bitwise manipulation library for strings exceeding 4Kb (32b)",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Yura Chaikovsky <yura.chaikovsky@gmail.com>",
     "license": "MIT",
     "repository": {
         "type": "git",
         "url": "git://github.com/yura-chaikovsky/bit-array.git"
     },
-    "keywords": ["bit array", "bitwise array", "bitmap", "bitwise operation"],
+    "keywords": ["bit array", "bitwise array", "bitmap", "bitwise operation", "bit shift", "left shift"],
     "main": "./lib/index.js",
     "directories": {
         "lib": "./lib"
